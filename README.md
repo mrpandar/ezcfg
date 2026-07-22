@@ -1,8 +1,6 @@
-# ezcfg
+# EZcfg
 EZcfg – Make Network Device Configuration Effortless.​
 EZcfg —— 让网络设备配置生成变得轻而易举。
-
-# EZcfg
 
 **EZcfg** is a free and open-source **network device configuration generator** designed for network engineers, integrators, and O&M teams.  
 It helps you automatically generate standardized CLI configurations for multi-vendor network devices (switches, routers, firewalls, wireless controllers, etc.) through simple form inputs or templates — **no more hand-crafting repetitive commands**.
